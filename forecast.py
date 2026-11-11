@@ -1,4 +1,3 @@
-"""Прогноз спроса и продаж: Python 3.10+, без сторонних зависимостей."""
 import argparse
 import csv
 from datetime import date
